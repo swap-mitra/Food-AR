@@ -25,10 +25,25 @@ TECH STACK USED:
 
 IMAGES:
 
+
+![WhatsApp Image 2020-12-13 at 11 42 36 AM](https://user-images.githubusercontent.com/71720275/102005573-cad32000-3d3f-11eb-829b-119140f6aa2e.jpeg)
+
+
+![WhatsApp Image 2020-12-13 at 11 42 36 AM (1)](https://user-images.githubusercontent.com/71720275/102005616-2ef5e400-3d40-11eb-9785-8372190fa51a.jpeg)
+
+
+![WhatsApp Image 2020-12-13 at 11 42 36 AM (2)](https://user-images.githubusercontent.com/71720275/102005624-4503a480-3d40-11eb-9c7d-872f08314a59.jpeg)
+
+
+![WhatsApp Image 2020-12-13 at 11 42 36 AM (3)](https://user-images.githubusercontent.com/71720275/102005629-53ea5700-3d40-11eb-8d18-d44e5868beeb.jpeg)
+
+
+![WhatsApp Image 2020-12-13 at 11 42 36 AM (4)](https://user-images.githubusercontent.com/71720275/102005640-65336380-3d40-11eb-92fb-95133de648f1.jpeg)
+
+
  
  
- 
-TEAM:
+ TEAM:
 code.blooded
 
 Members:
