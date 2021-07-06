@@ -43,12 +43,5 @@ IMAGES:
 
  
  
- TEAM:
-code.blooded
-
-Members:
-
-1.Swapnil Mitra
-
-2.Khushi Agarwal
+ 
 
